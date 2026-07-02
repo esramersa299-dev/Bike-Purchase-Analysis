@@ -12,14 +12,15 @@ This project presents an interactive Excel dashboard that analyzes customer bike
 
 ---
 
-## 🛠️ Tools & Skills
-- Microsoft Excel
+## 🛠️ Skills Demonstrated
+- Data Cleaning
+- Data Analysis
+- KPI Development
+- Dashboard Design
 - Pivot Tables
 - Pivot Charts
 - Slicers
-- Data Cleaning
 - Excel Formulas
-- Dashboard Design
 
 ---
 
@@ -34,6 +35,17 @@ This project presents an interactive Excel dashboard that analyzes customer bike
 - Average Income comparison
 - Interactive filtering by Region and Marital Status
 
+---
+
+## ❓ Business Questions
+
+This dashboard helps answer questions such as:
+
+- Which age group purchases bikes the most?
+- Does commute distance affect bike purchases?
+- Do customers who purchase bikes have higher incomes?
+- How does purchasing behavior vary across regions and marital status?
+  
 ---
 
 ## 💡 Key Insights
@@ -60,5 +72,12 @@ Bike_Purchase_Analysis_Dashboard.xlsx
 ---
 
 ## 📷 Dashboard Preview
+
+---
+## 📬 Contact
+
+LinkedIn: https://www.linkedin.com/in/esraa-mersa-554769184/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtyruSh%2B3S5GfSO3IyoBaLw%3D%3D
+
+GitHub: https://github.com/esramersa299-dev
 >
 ![Dashboard](dashboard.png)
