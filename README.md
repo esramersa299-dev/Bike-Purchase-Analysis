@@ -73,11 +73,6 @@ Bike_Purchase_Analysis_Dashboard.xlsx
 
 ## 📷 Dashboard Preview
 
----
-## 📬 Contact
 
-LinkedIn: https://www.linkedin.com/in/esraa-mersa-554769184/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtyruSh%2B3S5GfSO3IyoBaLw%3D%3D
-
-GitHub: https://github.com/esramersa299-dev
 >
 ![Dashboard](dashboard.png)
