@@ -58,7 +58,6 @@ Bike_Purchase_Analysis_Dashboard.xlsx
 ```
 
 ---
-
 ## 📷 Dashboard Preview
 > Add a screenshot of the dashboard here.
 ![Dashboard](dashboard.png)
